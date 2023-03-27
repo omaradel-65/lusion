@@ -1,0 +1,840 @@
+[
+    {
+        "id": 1,
+        "name": "Fitted Printed Dress",
+        "img": "/images/5576660812_2_4sd_3-367x497_1024x1024@2x.jpg",
+        "img2": "/images/5576660812_2_3_1-367x497_1024x1024@2x.jpg",
+        "img3": "/images/5576660812_1_1_1_b8284903-7788-4752-ac0c-e2728e364b75_1024x1024@2x.jpg",
+        "img4": "/images/5576660812_2_1_1-152x205_1024x1024@2x.jpg",
+        "img5": "/images/5576660812_2_2_1_6f283bb4-9a5d-48e8-9e62-f4646c9057a5_1024x1024@2x.jpg",
+        "oldPrice":169.00,
+        "CurrentPrice":145.00,
+        "Weight":"0.5 Ibs",
+        "category":"dress",
+
+        "Dimensions": "120 x 45 x 70 in",
+        "Color": "blue",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"177cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 4,
+        "type":"women"
+
+    },
+    {
+        "id": 2,
+        "name": "Short Dress",
+        "img": "/images/5572256506_2_sds4_1-367x497_1024x1024@2x.jpg",
+        "img2": "/images/5572256506_2_3_1-367x497_1024x1024@2x.jpg",
+        "img3": "/images/5572256506_2_1_1_04ede95f-3bdb-4f5b-9558-e6386104f481_1024x1024@2x.jpg",
+        "img4": "/images/5572256506_2_2_1_b08bf24e-db87-4072-9514-07313d03646c_1024x1024@2x.jpg",
+        "img5": "/images/5572256506_1_1_1_8b30c790-bebc-45a6-a167-257333f2acb9_1024x1024@2x.jpg",
+        "oldPrice":200.00,
+        "CurrentPrice":160.00,
+        "Weight":"0.6 Ibs",
+                "category":"dress",
+
+        "Dimensions": "130 x 45 x 70 in",
+        "Color": "gray",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"177cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 4,
+        "type":"women"
+
+    }
+    ,
+    {
+        "id": 3,
+        "name": "Pleated Shirt Dress",
+        "img": "/images/5814619742_2_4_1-367x497_1024x1024@2x.jpg",
+        "img2": "/images/5814619742_2_3_1-367x497_1024x1024@2x.jpg",
+        "img3": "/images/5814619742_2_1_1_918ca14c-017a-472b-abd6-6c7c23944594_1024x1024@2x.jpg",
+        "img4": "/images/5814619742_1_1_1_fb5007b1-b424-4ed0-8556-06ea1c2ac9f1_1024x1024@2x.jpg",
+        "img5": "/images/5814619742_2_2_1_c192a453-68c9-46ae-b915-e42f832049d0_1024x1024@2x.jpg",
+        "oldPrice":170.00,
+        "CurrentPrice":144.00,
+        "Weight":"0.8 Ibs",
+                "category":"dress",
+
+        "Dimensions": "120 x 45 x 80 in",
+        "Color": "yellow",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"177cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"women"
+
+    },
+    {
+        "id": 4,
+        "name": "Short Dress With Ring",
+        "img": "/images/0503326613_2_4_1-367x497_1024x1024@2x.jpg",
+        "img2": "/images/0503326613_2_3_1-367x497_1024x1024@2x.jpg",
+        "img3": "/images/0503326613_2_5_1_f1245334-cc4b-4351-a8fa-652dea1cb05c_1024x1024@2x.jpg",
+        "img4": "/images/0503326613_1_1_1_d47b58f5-eb3f-4192-9709-3bbbe88cc5cb_1024x1024@2x.jpg",
+        "img5": "/images/0503326613_2_1_1_3c1f7bd7-51ca-4701-a420-4296ad5b77aa_1024x1024@2x.jpg",
+        "oldPrice":150.00,
+        "CurrentPrice":99.00,
+        "Weight":"0.7 Ibs",
+                "category":"dress",
+
+        "Dimensions": "130 x 55 x 70 in",
+        "Color": "pink",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"177cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 4,
+        "type":"women"
+
+    },
+    {
+        "id": 5,
+        "name": "Fitted Corset Dress",
+        "img": "/images/0419492742_2_4_3-367x497_1024x1024@2x.jpg",
+        "img2": "/images/0419492742_2_3_1-367x497_1024x1024@2x.jpg",
+        "img3": "/images/0419492742_2_2_1_257d51ae-e874-4779-9a94-33fba4f13b32_1024x1024@2x.jpg",
+        "img4": "/images/0419492742_2_1_1_d492aea6-96a4-44dd-a375-8b2dd9e38515_1024x1024@2x.jpg",
+        "img5": "/images/0419492742_1_1_1_46319a75-613c-4f91-92ad-795d3f3048a7_1024x1024@2x.jpg",
+        "oldPrice":170.00,
+        "CurrentPrice":122.00,
+        "Weight":"0.6 Ibs",
+                "category":"dress",
+
+        "Dimensions": "140 x 45 x 70 in",
+        "Color": "pink",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"177cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"women"
+
+    },
+    {
+        "id": 6,
+        "name": "Dress with shirring and tie",
+        "img": "/images/5569315306_xcxc2_4_3_1024x1024@2x.jpg",
+        "img2": "/images/5569315306_2_3_3_1024x1024@2x.jpg",
+        "img3": "/images/5569315306_2_1_3_1024x1024@2x.jpg",
+        "img4": "/images/5569315306_2_2_3_1024x1024@2x.jpg",
+        "img5": "/images/5569315306_2_5_3_1024x1024@2x.jpg",
+        "oldPrice":250.00,
+        "CurrentPrice":199.00,
+        "Weight":"0.6 Ibs",
+                "category":"dress",
+
+        "Dimensions": "130 x 45 x 70 in",
+        "Color": "yellow",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"177cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 4,
+        "type":"women"
+
+    },
+    {
+        "id": 7,
+        "name": "Short straight coat",
+        "img": "/images/minimalist-img-1111_1024x1024@2x.jpg",
+        "img2": "/images/minimalist-img-111_1024x1024@2x.jpg",
+
+        "oldPrice":500.00,
+        "CurrentPrice":416.00,
+        "Weight":"0.9 Ibs",
+                "category":"jacket",
+
+        "Dimensions": "130 x 45 x 70 in",
+        "Color": "purple",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"177cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 4,
+        "type":"women"
+        
+
+    },
+    {
+        "id": 8,
+        "name": "Drop-shoulder coat",
+        "img": "/images/minimalist-img-10_1024x1024@2x.jpg",
+        "img2": "/images/minimalist-img-101_1024x1024@2x.jpg",
+
+        "oldPrice":400.00,
+        "CurrentPrice":306.00,
+        "Weight":"0.9 Ibs",
+                "category":"jacket",
+
+        "Dimensions": "130 x 45 x 70 in",
+        "Color": "gray",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 4,
+        "type":"women"
+
+    }
+    ,
+    {
+        "id": 9,
+        "name": "Gray Coat",
+        "img": "/images/brand_127_1024x1024@2x.jpg",
+        "oldPrice":150.00,
+        "CurrentPrice":122.00,
+        "Weight":"0.5 Ibs",
+                "category":"jacket",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "gray",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"women"
+
+    }
+    ,
+    {
+        "id": 10,
+        "name": "Floral midi skirt",
+        "img": "/images/minimalist-img-8_1024x1024@2x.jpg",
+        "img2": "/images/minimalist-img-81_1024x1024@2x.jpg",
+
+        "oldPrice":200.00,
+        "CurrentPrice":106.00,
+        "Weight":"0.5 Ibs",
+                "category":"skirt",
+
+        "Dimensions": "170 x 45 x 70 in",
+        "Color": "gray",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"170cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"women"
+
+    },
+    {
+        "id": 11,
+        "name": "Ripped midi skirt",
+        "img": "/images/minimalist-img-1_1024x1024@2x.jpg",
+        "img2": "/images/minimalist-img-11_1024x1024@2x.jpg",
+
+        "oldPrice":300.00,
+        "CurrentPrice":256.00,
+        "Weight":"0.4 Ibs",
+                "category":"skirt",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "blue",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 4,
+        "type":"women"
+
+    },
+    {
+        "id": 12,
+        "name": "Pleated midi skirt",
+        "img": "/images/minimalist-img-7_1024x1024@2x.jpg",
+        "img2": "/images/minimalist-img-71_1024x1024@2x.jpg",
+        "oldPrice":200.00,
+        "CurrentPrice":106.00,
+        "Weight":"0.4 Ibs",
+                "category":"skirt",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "gray",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"women"
+
+    },
+    {
+        "id": 13,
+        "name": "zebra midi skirt",
+        "img": "/images/minimalist-img-15_1024x1024@2x.jpg",
+        "img2": "/images/minimalist-img-151_1024x1024@2x.jpg",
+        "oldPrice":600.00,
+        "CurrentPrice":516.00,
+        "Weight":"0.4 Ibs",
+                "category":"skirt",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "gray",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"women"
+
+    },
+    {
+        "id": 14,
+        "name": "Be Awara Men’s Solid Regular",
+        "img": "/images/t-shirt5e5_1024x1024@2x.jpg",
+        "img2": "/images/t-shirt5w4_1024x1024@2x.jpg",
+        "oldPrice":60.00,
+        "CurrentPrice":39.00,
+        "Weight":"0.5 Ibs",
+                "category":"t_shirt",
+
+        "Dimensions": "120 x 45 x 70 in",
+        "Color": "blue",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"177cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"boy"
+
+    },
+    {
+        "id": 15,
+        "name": "zebra midi skirt",
+        "img": "/images/t-shirtgf51_900x.jpg",
+        "img2": "/images/t-shirtrty2_900x.jpg",
+        "oldPrice":50.00,
+        "CurrentPrice":39.00,
+        "Weight":"0.6 Ibs",
+                "category":"t_shirt",
+
+        "Dimensions": "140 x 45 x 70 in",
+        "Color": "blue",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"boy"
+
+    },
+    {
+        "id": 16,
+        "name": "Men’s Cotton T-Shirt",
+        "img": "/images/t-shirtnm41_540x.jpg",
+        "img2": "/images/t-shirtnm3_540x.jpg",
+        "oldPrice":60.00,
+        "CurrentPrice":39.00,
+        "Weight":"0.4 Ibs",
+        "category":"t_shirt",
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "gray",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"170cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"boy"
+
+    },
+    {
+        "id": 17,
+        "name": "High Quality Sweater HM",
+        "img": "/images/sggweater-1-1_540x.jpg",
+        "img2": "/images/sweater1bn-1_540x.jpg",
+        "oldPrice":70.00,
+        "CurrentPrice":50.00,
+        "Weight":"0.5 Ibs",
+         "category":"jacket",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "blue",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 4,
+        "type":"boy"
+
+    },
+    {
+        "id": 18,
+        "name": "Men’s Melange Solid Polo T-Shirt",
+        "img": "/images/t-shirtvbvv1-1_540x.jpg",
+        "img2": "/images/aaa-t-shirt-1_1024x1024@2x.jpg",
+        "oldPrice":60.00,
+        "CurrentPrice":39.00,
+        "Weight":"0.5 Ibs",
+        "category":"t_shirt",
+        "Dimensions": "140 x 45 x 70 in",
+        "Color": "gray",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 4,
+        "type":"boy"
+
+    },
+    {
+        "id": 19,
+        "name": "High Quality Shirt Owen",
+        "img": "/images/Untitled-3-h1_540x.jpg",
+        "img2": "/images/Untitled-1fg-1_540x.jpg",
+        "oldPrice":50.00,
+        "CurrentPrice":40.00,
+        "Weight":"0.4 Ibs",
+        "category":"shirt",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "black",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"boy"
+
+    },
+    {
+        "id": 20,
+        "name": "High Quality Hiphop Trousers",
+        "img": "/images/cloo-hiphop_1024x1024@2x.jpg",
+        "img2": "/images/clo-hiphop1_1024x1024@2x.jpg",
+        "oldPrice":60.00,
+        "CurrentPrice":50.00,
+        "Weight":"0.5 Ibs",
+        "category":"trousers",
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "gray",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"boy"
+
+    },
+    {
+        "id":21,
+        "name": "High Quality Shirt ZR",
+        "img": "/images/81r6jFYrC0500_540x.jpg",
+        "img2": "/images/81KcEehVL1500_540x.jpg",
+        "oldPrice":60.00,
+        "CurrentPrice":44.00,
+        "Weight":"0.4 Ibs",
+                "category":"shirt",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "blue",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 4,
+        "type":"boy"
+
+    },
+    {
+        "id": 22,
+        "name": "High Quality T-Shirt Zara",
+        "img": "/images/t-shirts1-xc1_540x.jpg",
+        "img2": "/images/t-shirtsnnn1-xc1_360x.jpg",
+        "oldPrice":60.00,
+        "CurrentPrice":39.00,
+        "Weight":"0.5 Ibs",
+                "category":"t_shirt",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "white",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"boy"
+
+    },
+    {
+        "id": 23,
+        "name": "Shirts isolatedt",
+        "img": "/images/shirts1-xcx1_540x.jpg",
+        "img2": "/images/shirt1-xcs1_540x.jpg",
+        "oldPrice":25.00,
+        "CurrentPrice":22.00,
+        "Weight":"0.4 Ibs",
+                "category":"shirt",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "blue",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 4,
+        "type":"boy"
+
+    },
+    {
+        "id": 24,
+        "name": "shoes-1_1024x1024@2x.jpg",
+        "img": "/images/shoes-1_1024x1024@2x.jpg",
+        "oldPrice":30.00,
+        "CurrentPrice":22.00,
+        "Weight":"0.4 Ibs",
+                "category":"shoes",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "gray",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"boy"
+
+    }
+    ,
+    {
+        "id": 25,
+        "name": "Faux suede bomber jacket",
+        "img": "/images/minimalist-img-6_1024x1024@2x.jpg",
+        "img2": "/images/minimalist-img-61_1024x1024@2x.jpg",
+
+        "oldPrice":200.00,
+        "CurrentPrice":116.00,
+        "Weight":"0.5 Ibs",
+                "category":"jacket",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "white",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"boy"
+
+    }
+    ,
+    {
+        "id": 26,
+        "name": "Joggers with mesh detail",
+        "img": "/images/minimalist-img-13_1024x1024@2x.jpg",
+        "img2": "/images/minimalist-img-131_1024x1024@2x.jpg",
+
+        "oldPrice":200.00,
+        "CurrentPrice":146.00,
+        "Weight":"0.5 Ibs",
+        "category":"trousers",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "white",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"boy"
+
+    }
+    ,
+    {
+        "id": 27,
+        "name": "Men’s smart white shoes",
+        "img": "/images/minimalist-img-14_540x.jpg",
+        "img2": "/images/minimalist-img-141_540x.jpg",
+
+        "oldPrice":200.00,
+        "CurrentPrice":146.00,
+        "Weight":"0.5 Ibs",
+        "category":"shoes",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "white",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"boy"
+
+    }
+    ,
+    {
+        "id": 28,
+        "name": "Zipped joggers",
+        "img": "/images/minimalist-img-2_540x.jpg",
+        "img2": "/images/minimalist-img-21_900x.jpg",
+
+        "oldPrice":260.00,
+        "CurrentPrice":234.00,
+        "Weight":"0.5 Ibs",
+        "category":"trousers",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "white",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 4,
+        "type":"boy"
+
+    }    ,
+    {
+        "id": 29,
+        "name": "Oversized check overshirt",
+        "img": "/images/minimalist-img-3_900x.jpg",
+        "img2": "/images/minimalist-img-31_540x.jpg",
+
+        "oldPrice":700.00,
+        "CurrentPrice":546.00,
+        "Weight":"0.5 Ibs",
+        "category":"shirt",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "white",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"women"
+
+    }    ,
+    {
+        "id": 30,
+        "name": "Oversized check overshirt",
+        "img": "/images/minimalist-img-4_540x.jpg",
+        "img2": "/images/minimalist-img-41_540x.jpg",
+
+        "oldPrice":300.00,
+        "CurrentPrice":222.00,
+        "Weight":"0.5 Ibs",
+        "category":"shirt",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "white",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"women"
+
+    }   ,
+    {
+        "id": 31,
+        "name": "Flared ribbed trousers",
+        "img": "/images/minimalist-img-9_540x.jpg",
+        "img2": "/images/minimalist-img-91_540x.jpg",
+
+        "oldPrice":300.00,
+        "CurrentPrice":246.00,
+        "Weight":"0.5 Ibs",
+        "category":"trousers",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "black",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"women"
+
+    }   ,
+    {
+        "id": 32,
+        "name": "Short polo dress",
+        "img": "/images/5606326812cvcv_2_4_3_540x.jpg",
+        "img2": "/images/5606326812_2_3_3_540x.jpg",
+        "img3": "/images/5606326812_2_1_3_540x.jpg",
+        "img4": "/images/5606326812_2_2_3_540x.jpg",
+        "img5": "/images/5606326812_2_5_3_540x.jpg",
+
+        "oldPrice":100.00,
+        "CurrentPrice":88.00,
+        "Weight":"0.5 Ibs",
+        "category":"dress",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "purple",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"women"
+
+    } ,
+    {
+        "id": 33,
+        "name": "Short Straight Coat",
+        "img": "/images/Layer-134_1296x.jpg",
+
+        "oldPrice":500.00,
+        "CurrentPrice":410.00,
+        "Weight":"0.5 Ibs",
+        "category":"jacket",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "purple",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 4,
+        "type":"women"
+
+    }   ,
+    {
+        "id": 34,
+        "name": "Anorak Jacket",
+        "img": "/images/6350552300_1_1_1-1_540x.jpg",
+        "img2": "/images/6350552300_2_1_3-1_540x.jpg",
+        "oldPrice":30.00,
+        "CurrentPrice":22.00,
+        "Weight":"0.5 Ibs",
+        "category":"jacket",
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "yellow",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"boy"
+
+    }   ,
+    {
+        "id": 35,
+        "name": "Billie Eilish M62",
+        "img": "/images/Layer-14-2_360x (1).jpg",
+        "oldPrice":200.00,
+        "CurrentPrice":98.00,
+        "Weight":"0.5 Ibs",
+        "category":"jacket",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "black",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"women"
+
+    }   ,
+    {
+        "id": 36,
+        "name": "Oversized Denim Jacket",
+        "img": "/images/6348644205_1_1_3-removebg-2_7318ae17-ed9d-4705-9bcd-bbcded4b59db_360x (1).png",
+        "oldPrice":500.00,
+        "CurrentPrice":410.00,
+        "Weight":"0.5 Ibs",
+        "category":"jacket",
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "white",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"boy"
+
+    }   ,
+    {
+        "id": 37,
+        "name": "Shearling Jacket",
+        "img": "/images/Layer-142_360x (1).jpg",
+
+        "oldPrice":500.00,
+        "CurrentPrice":454.99,
+        "Weight":"0.5 Ibs",
+        "category":"jacket",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "black",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"women"
+
+    }  
+    ,
+    {
+        "id": 38,
+        "name": "Shearling Jacket",
+        "img": "/images/Layer-133-1_540x.jpg",
+        "img2": "/images/Untitled-1_540x.png",
+        "img3": "/images/6348644205_1_1_3-removebg-2_540x.png",
+
+        "oldPrice":500.00,
+        "CurrentPrice":454.99,
+        "Weight":"0.5 Ibs",
+        "category":"jacket",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "black",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"boy"
+
+    }  
+    ,
+    {
+        "id": 39,
+        "name": "Wide-Leg Jeans",
+        "img": "/images/0150220428_2_4_3_1024x1024@2x.jpg",
+        "img2": "/images/0150220428_2_3_3_1024x1024@2x.jpg",
+        "img3": "/images/0150220428_2_2_3_1_1024x1024@2x.jpg",
+        "img4": "/images/0150220428_2_1_3_1024x1024@2x.jpg",
+        "img5": "/images/0150220428_2_5_3_1024x1024@2x.jpg",
+
+        "oldPrice":150.00,
+        "CurrentPrice":98.00,
+        "Weight":"0.5 Ibs",
+        "category":"trousers",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "black",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"women"
+
+    }     ,
+    {
+        "id": 40,
+        "name": "Quilted Bomber Jacket",
+        "img": "/images/minimalist-img-5_a1455f0b-6b39-4c34-a1ce-ff3aa62e53af_1024x1024@2x.jpg",
+        "oldPrice":150.00,
+        "CurrentPrice":99.00,
+        "Weight":"0.5 Ibs",
+        "category":"jacket",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "black",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"women"
+
+    }     ,
+    {
+        "id": 41,
+        "name": "Balloon Fit Jeans",
+        "img": "/images/0248251428_1_1_3_1024x1024@2x.jpg",
+        "img2": "/images/0248251428_2_3_3_1024x1024@2x.jpg",
+        "img3": "/images/0248251428_2_1_3_1024x1024@2x.jpg",
+        "img4": "/images/0248251428_2_2_3_1024x1024@2x.jpg",
+        "img5": "/images/0248251428_2_4_3_1024x1024@2x.jpg",
+
+        "oldPrice":400.00,
+        "CurrentPrice":299.00,
+        "Weight":"0.5 Ibs",
+        "category":"trousers",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "blue",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"boy"
+
+    }      ,
+    {
+        "id": 42,
+        "name": "Short-Sleeved White Corset",
+        "img": "/images/6703777712_2_4_3_1024x1024@2x.jpg",
+        "img2": "/images/6703777712_1_1_3_1024x1024@2x.jpg",
+        "img3": "/images/6703777712_2_1_3_1024x1024@2x.jpg",
+        "img4": "/images/6703777712_2_2_3_1024x1024@2x.jpg",
+        "img5": "/images/Untitled-2_c3deccf5-8c45-4eae-8ed0-63383cd413a0_540x (1).jpg",
+
+        "oldPrice":400.00,
+        "CurrentPrice":120.00,
+        "Weight":"0.5 Ibs",
+        "category":"t-shirt",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "white",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"women"
+
+    }   ,
+    {
+        "id": 45,
+        "name": "Bershka Puffer Gilet A3",
+        "img": "/images/Untitled-2_c3deccf5-8c45-4eae-8ed0-63383cd413a0_360x.jpg",
+        "oldPrice":300.00,
+        "CurrentPrice":246.00,
+        "Weight":"0.5 Ibs",
+        "category":"t-shirt",
+
+        "Dimensions": "150 x 45 x 70 in",
+        "Color": "white",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"180cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 5,
+        "type":"women"
+
+    }   ,
+    {
+        "id": 46,
+        "name": "Lightweight Hooded Puffer Jacket",
+        "img": "/images/6348644800_1-1_540x.jpg",
+        "img2": "/images/6348644800_1_540x.jpg",
+        "oldPrice":60.00,
+        "CurrentPrice":49.00,
+        "Weight":"0.5 Ibs",
+        "category":"jacket",
+
+        "Dimensions": "140 x 45 x 70 in",
+        "Color": "black",
+        "Sizing":"Fits true to size, take your normal size",
+        "Model":"177cm/ 5'10 and is wearing a size XSmall", 
+        "stars": 4,
+        "type":"boy"
+
+    }
+]
